@@ -5,13 +5,12 @@
 # Установка самой последней версии
 - pkg update
 - pkg upgrade
-- pkg install git
-- pkg install python
-- python3 -m pip install --upgrade pip
-- git clone https://github.com/KrasProject-2021/kras3
-- cd kras3
+- pkg install git -y
+- pkg install python -y
+- git clone https://github.com/KrasProject-2021/kras4
+- cd kras4
 - python install.py
-- python kras3.py
+- python kras4.py
 
 <em>
 Вот и всё 🙂
