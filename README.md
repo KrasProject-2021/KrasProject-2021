@@ -10,7 +10,7 @@
 - python3 -m pip install --upgrade pip
 - git clone https://github.com/KrasProject-2021/kras3
 - cd kras3
-- pip install -r requirements.txt
+- python install.py
 - python kras3.py
 
 <em>
