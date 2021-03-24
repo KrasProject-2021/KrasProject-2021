@@ -4,12 +4,12 @@
 </strong>
 
 # Установка самой последней версии
-`pkg update && pkg upgrade`
-`pkg install git python`
-`git clone https://github.com/KrasProject-2021/kras4`
-`cd kras4`
-`python install.py`
-`python kras4.py`
+`pkg update && pkg upgrade
+pkg install git python
+git clone https://github.com/KrasProject-2021/kras4
+cd kras4
+python install.py
+python kras4.py`
 
 <em>
 Вот и всё 🙂
