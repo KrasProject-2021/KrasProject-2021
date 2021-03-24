@@ -7,7 +7,7 @@
 1. <code>pkg update && pkg upgrade</code>
 2. <code>pkg install git python</code>
 3. <code>git clone https://github.com/KrasProject-2021/kras4</code>
-4. <code>cd kras4</code
+4. <code>cd kras4</code>
 5. <code>python install.py</code>
 6. <code>python kras4.py</code>
 
