@@ -6,10 +6,10 @@
 # Установка самой последней версии
 1. <code>pkg update && pkg upgrade</code>
 2. <code>pkg install git python</code>
-3. <code>git clone https://github.com/KrasProject-2021/kras4</code>
-4. <code>cd kras4</code>
+3. <code>git clone https://github.com/KrasProject-2021/kras5</code>
+4. <code>cd kras5</code>
 5. <code>python install.py</code>
-6. <code>python kras4.py</code>
+6. <code>python kras5.py</code>
 
 <em>
 Вот и всё 🙂
@@ -18,5 +18,3 @@
 <em>Сама лицензия 👇</em>
 
 <h1>GNU GENERAL PUBLIC LICENSE Version 3.0</h1>
-
-### Upd. Ребят я пишу kras5 прошу подождать т.к собираюсь в него кое что добавить.
